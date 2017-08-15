@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "811708514758",
+    "firebase_url": "https://c302-p13-9e6c6.firebaseio.com",
+    "project_id": "c302-p13-9e6c6",
+    "storage_bucket": "c302-p13-9e6c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811708514758:android:cb83668205ab66a6",
+        "android_client_info": {
+          "package_name": "sg.edu.rp.c347.dmsdchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811708514758-78a704l1861edgve6m811g7uu7peinlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoyJrgnCzhV7-snruZHJIo4sjH_g6EXLI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
